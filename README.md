@@ -88,16 +88,6 @@ pip install pandas scikit-learn
 
 ---
 
-## 🔁 Improvements for the Future
-
-* Clean and balance dataset (check label noise)
-* Use full article text if available, not just headlines
-* Try other models: Logistic Regression, SVM, BERT (transformers)
-* Perform hyperparameter tuning and cross-validation
-* Use GridSearchCV or ensemble methods for robustness
-
----
-
 ## 🚀 Run the Code
 
 ```bash
